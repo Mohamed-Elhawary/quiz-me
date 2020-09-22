@@ -1,0 +1,189 @@
+/*#f9f9f9 answer, #dfdfdf border, #f8f8f8 container, #777labels, #ddd bullets, #0075ff on, #dc0a0a bad
+#009688 good, #0075ff pefect*/
+* {
+	box-sizing: border-box
+}
+
+body {
+	font-family: arial
+}
+
+.container {
+	background-color: #f8f8f8;
+	margin: 30px 30px;
+	padding: 15px;
+	border: 1px solid #dfdfdf;
+	width: 800px;
+	border-radius: 10px;
+}
+
+.container .info {
+	display: flex;
+	font-size: 18px;
+	font-weight: bold;
+	padding: 5px;
+	border-bottom: 2px solid #ccc;
+}
+
+.container .info .category {
+	flex: 1
+}
+
+.container .info .count {
+	flex: 1;
+	text-align: right
+}
+
+.container .info .category span, .container .info .count span {
+	color: #dc0a0a
+}
+
+.container .quiz-area {
+	background-color: #fff
+}
+
+.container .quiz-area .question {
+	padding: 5px 0 5px 20px;
+	margin-bottom: 10px;
+}
+
+.container .quiz-area .question h2 {
+	margin: 0
+}
+
+.container .quiz-area .options {
+	padding: 0 20px 20px;
+}
+
+.container .quiz-area .options .option {
+	padding: 15px;
+	background-color: #f9f9f9;
+
+}
+
+.container .quiz-area .options .option:not(:last-child) {
+	border-bottom: 2px solid #777;
+}
+
+.container .quiz-area .options .option label {
+	font-weight: bold;
+	color: #777;
+	font-size: 18px;
+	padding: 5px;
+	cursor: pointer
+}
+
+.container .quiz-area .options .option label:hover {
+	color: #0075ff
+}
+
+.container .quiz-area .options .option input[type = "radio"]:checked + label  {
+	color: #0075ff
+}
+
+.container .submit {
+	display: block;
+	margin: 10px 0 10px 20px;
+	width: 95%;
+	height: 50px;
+	font-weight: bold;
+	font-size: 24px;
+	background-color: #0075ff;
+	border-radius: 10px;
+	cursor: pointer;
+	color: #fff;
+	user-select: none;
+	border: 1px solid #777
+}
+
+.container .submit:focus {
+	outline: none;
+}
+
+.container .submit:hover {
+	background-color: #fff;
+	color: #0075ff;
+}
+
+.container .details {
+	margin: 15px auto;
+	padding: 10px;
+	background-color: #fff;
+	width: 95%;
+	border-radius: 10px;
+	display: flex;
+	border-top: 2px solid #dfdfdf
+}
+
+.container .details .bullets {
+	flex: 1;
+	overflow: hidden;
+}
+
+.container .details .bullets span {
+	height: 25px;
+	width: 25px;
+	border-radius: 50%;
+	background-color: #ddd;
+	float: left;
+	margin-right: 5px;
+	transition: 1s;
+	margin-top: 5px
+	
+}
+
+.container .details .bullets span.on {
+	background-color: #0075ff;
+}
+
+.container .details .timer {
+	color: #0075ff;
+	font-weight: bold;
+	background-color: #0075ff;
+	border-radius: 15px;
+	padding: 8px;
+	color: #fff;
+}
+
+.container .details .timer.count-down {
+	background-color: #dc0a0a
+}
+
+.container .result.show {
+	background-color: #dfdfdf;
+	padding: 15px;
+	font-size: 22px;
+	font-weight: bold;
+	margin-top: 10px;
+	min-height: 500px;
+}
+
+.container .result span.bad {
+  color: #dc0a0a;
+}
+.container .result span.good {
+  color: #009688;
+}
+.container .result span.perfect {
+  color: #0075ff;
+}
+
+footer {
+	margin: 100px auto;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	color:#ccc;
+	padding: 5px
+}
+
+footer p {
+    margin-top: 8px;
+}
+
+footer p span {
+    background-color: black;
+    padding: 2px;
+    color: #fff;
+    border-radius: 5px;
+}
