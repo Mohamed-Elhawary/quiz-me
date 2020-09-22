@@ -9,7 +9,7 @@ Quiz Me is a Quiz App. test your Skills in Programming Languages depends on JSON
 ## Demo and How to Interact
  - Try to Answer every Question before the Time is gone out.  
 
-![quiz-me-your-gate-to-test-your-s](https://user-images.githubusercontent.com/69651552/93912184-ad278900-fd03-11ea-92cb-1ec483db9a70.gif)
+![quiz-me-your-gate-to-test-your-s](https://user-images.githubusercontent.com/69651552/93914205-7d2db500-fd06-11ea-8c61-b64d6fed65e1.gif)
 
 
 ## Getting Started
@@ -23,7 +23,12 @@ Just Modern Browser like "Chrome" and a Code Editor for Deployment and Develop.
 ## versions  
 * [v1](https://github.com/Mohamed-Elhawary/quiz-me/tree/v1)  
 
-    - JSON File Contains Only 9 Static Questions in one Progamming Language Category that doesn't change (HTML)
+    - JSON File contains Only 9 Static Questions in one Progamming Language Category that doesn't change (HTML)  
+
+* [v1.1](https://github.com/Mohamed-Elhawary/quiz-me/tree/v1.1)   
+
+    - JSON File contains More additional Questions in different Programming Languages.
+	- When starting the App each quiz get totally 10 random questions of random languages from the JSON file.
 
 ## Built With
 
