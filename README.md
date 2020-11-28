@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8d827263-69f3-4fa6-a109-d889a72d1f3e/deploy-status)](https://app.netlify.com/sites/quizme14/deploys) 
 
-Quiz Me is a Quiz App. test your Skills in Programming Languages depends on JSON to get the Questions.
+Quiz Me is a quiz application that tests your skills in programming languages depends on JSON to get the questions.
   
 ![Screenshot](preview.png)
 
