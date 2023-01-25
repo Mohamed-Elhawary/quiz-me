@@ -2,23 +2,15 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8d827263-69f3-4fa6-a109-d889a72d1f3e/deploy-status)](https://app.netlify.com/sites/quizme14/deploys) 
 
-Quiz Me is a quiz app that tests your skills in programming languages depends on JSON to get the questions.
+Quiz Me is a quiz App that tests your skills in programming languages depends on JSON to get the questions.
   
+You can view the website from [here](https://quizme14.netlify.app/)
+
 ![Screenshot](preview.png)
 
-## Demo and How to Interact
- - Try to Answer every Question before the Time is gone out.  
+## Demo
 
 ![quiz-me-your-gate-to-test-your-s](https://user-images.githubusercontent.com/69651552/93914205-7d2db500-fd06-11ea-8c61-b64d6fed65e1.gif)
-
-
-## Getting Started
-
-You can try the APP from [here](https://mohamed-elhawary.github.io/quiz-me/)
-
-## Prerequisites
-
-Just Modern Browser like "Chrome" and a Code Editor for Deployment and Develop.
 
 ## versions  
 * [v1](https://github.com/Mohamed-Elhawary/quiz-me/tree/v1)  
@@ -42,15 +34,15 @@ Just Modern Browser like "Chrome" and a Code Editor for Deployment and Develop.
 
 ## Author
 
-* Mohamed Elhawary  
+* [Mohamed Elhawary](https://www.linkedin.com/in/mohamed-elhawary14/)
 
-## Contact Me  
+## Contact me through my social accounts
 
 * Email: mohamed.k.elhawary@gmail.com
-
-## Deploy with Me
-
-Feel Free to Deploy it with me, send Issues or a Pull Request and i'll deal with you, just test it First.
+* [LinkedIn](https://www.linkedin.com/in/mohamed-elhawary14/)
+* [Github](https://github.com/Mohamed-Elhawary)  
+* [Behance](https://www.behance.net/mohamed-elhawary14)
+* [Codepen](https://codepen.io/Mohamed-ElHawary) 
 
 ## License
 
