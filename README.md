@@ -12,15 +12,16 @@ You can view the website from [here](https://quizme14.netlify.app/)
 
 ![quiz-me-your-gate-to-test-your-s](https://user-images.githubusercontent.com/69651552/93914205-7d2db500-fd06-11ea-8c61-b64d6fed65e1.gif)
 
-## versions  
+## Versions 
+ 
 * [v1](https://github.com/Mohamed-Elhawary/quiz-me/tree/v1)  
 
-    - JSON File contains Only 9 Static Questions in one Progamming Language Category that doesn't change (HTML)  
+    - JSON file contains only 9 static questions in one programming language category.  
 
 * [v1.1](https://github.com/Mohamed-Elhawary/quiz-me/tree/v1.1)   
 
-    - JSON File contains More additional Questions in different Programming Languages.
-	- When starting the App each quiz get totally 10 random questions of random languages from the JSON file.
+    - JSON file contains more additional questions in different programming languages.
+	- When starting the App each quiz gets 10 random questions totally of random languages from the JSON file.
 
 ## Built With
 
