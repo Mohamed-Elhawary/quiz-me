@@ -10,7 +10,7 @@ You can view the website from [here](https://quizme14.netlify.app/)
 
 ## Demo
 
-![quiz-me-your-gate-to-test-your-s](https://user-images.githubusercontent.com/69651552/93914205-7d2db500-fd06-11ea-8c61-b64d6fed65e1.gif)
+![Demo](https://user-images.githubusercontent.com/69651552/93914205-7d2db500-fd06-11ea-8c61-b64d6fed65e1.gif)
 
 ## Versions 
  
@@ -23,10 +23,10 @@ You can view the website from [here](https://quizme14.netlify.app/)
     - JSON file contains more additional questions in different programming languages.
 	- When starting the App each quiz gets 10 random questions totally of random languages from the JSON file.
 
-## Built With
+## Built with
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * Vanilla JS  
 
 ## API  
@@ -40,7 +40,7 @@ You can view the website from [here](https://quizme14.netlify.app/)
 ## Contact me through my social accounts
 
 * Email: mohamed.k.elhawary@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/mohamed-elhawary14/)
+* [Linkedin](https://www.linkedin.com/in/mohamed-elhawary14/)
 * [Github](https://github.com/Mohamed-Elhawary)  
 * [Behance](https://www.behance.net/mohamed-elhawary14)
 * [Codepen](https://codepen.io/Mohamed-ElHawary) 
